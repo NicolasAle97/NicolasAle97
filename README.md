@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hola, soy Nicolas👋
+
+![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square)
+
 
 <!--
 **NicolasAle97/NicolasAle97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
