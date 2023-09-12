@@ -1,6 +1,6 @@
 
 
-![Banner](Nicolas)
+![Banner](Nicolas.png)
 
 ### ***Connect with me:***
    ![Linkedin](icons8-linkedin-48.png)
