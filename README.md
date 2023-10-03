@@ -23,7 +23,7 @@
 > - 🔭 Mi tiempo libre lo utilizo para mejorar mis diseños y creacion de paginas web.
 > - 💬 Los primeros lenguajes de programacion que utilice fueron C y Java .
 > - ⚡ Dato curioso: mi primera línea de código no fue "¡Hola mundo!"
-> - 😀 Pregúntame por Cafe de especialidad y Messi.
+> - 😀 Transformo líneas de código en soluciones innovadoras que hacen del mundo digital un lugar mejor, un algoritmo a la vez.
 
 
 Ultima edicion: 07/09/2023
